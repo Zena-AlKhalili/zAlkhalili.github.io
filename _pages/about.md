@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
  -->
 
-I'm a PhD student in the department of Language Science and Techonolgy at Saarland University. I work in the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group. My supervisor is [Prof. Dr. Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de).
+I'm a PhD student in the department of Language Science and Technology at Saarland University. I work in the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group. My supervisor is [Prof. Dr. Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de).
 I'm also an associate member at the [Research Training Group](https://www.neuroexplicit.org/) focusing on Neuroexplicit models.
 
 I have obtained a master degree in Language Science and Technology from Saarland university, and a bachelor degree in Information Technology Engineering from Damascus University. 
